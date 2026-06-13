@@ -24,7 +24,7 @@ import "./App.css";
 
 function App() {
 
-  const API = "const API ="https://skillsprint-backend.onrender.com";
+  const API ="const API ="https://skillsprint-backend.onrender.com";
 
   const dashboardRef = useRef(null);
   const addSkillRef = useRef(null);
